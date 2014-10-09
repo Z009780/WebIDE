@@ -1,0 +1,7 @@
+		            <Button icon="sap-icon://display" tap="display"/>
+
+
+display:function(){
+    alert("Hi, you clicked on Display!");
+}
+ 
